@@ -1,0 +1,23 @@
+{
+  "name": "varcel_express_node",
+  "version": "1.0.0",
+  "description": "varcel_express_node.js  test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oushesh/varcel_express_node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oushesh/varcel_express_node/issues"
+  },
+  "homepage": "https://github.com/Oushesh/varcel_express_node#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
